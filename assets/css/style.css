@@ -140,3 +140,23 @@ h4 {
     padding: 1rem 1rem 2rem 1rem;
     font-size: 25px;
 }
+
+/* .button {
+    background-color: transparent;
+    border: 2px solid #9400d3;
+    padding: 0.4rem;
+    color: #9400d3;
+    font-weight: 600;
+    border-radius: 0.2rem;
+    width: 330px;
+    margin-top: 0.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-size: 1rem;
+} */
+
+.hidden {
+    display: none;
+}
+
+/* --> display:none ( esconde projeto) */
